@@ -76,7 +76,7 @@ A system for intelligent document retrieval and querying using modern data proce
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=yamkela-macwili\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-yamkela-macwili\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamkela-macwili\&layout=compact)
 
 ---
 
