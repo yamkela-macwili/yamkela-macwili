@@ -82,7 +82,7 @@ A system for intelligent document retrieval and querying using modern data proce
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: *Add your link*
+* 💼 LinkedIn: *in/yamkela-macwili-116442253*
 * 📧 Email: *yamkela22y@gmail.com*
 * 🌍 Portfolio: *Coming soon*
 
