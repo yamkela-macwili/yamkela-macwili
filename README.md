@@ -5,7 +5,7 @@
 ## About Me
 
 I’m an aspiring **Data Engineer** focused on building **reliable, scalable data pipelines and systems**.
-I work with **Python and Java** to design solutions that handle data efficiently—from ingestion and processing to storage and access.
+I work with **Python and Java** to design solutions that handle data efficiently from ingestion and processing to storage and access.
 Beyond data engineering, I also build **full-stack applications** that turn data into usable products.
 
 ---
@@ -83,7 +83,7 @@ A system for intelligent document retrieval and querying using modern data proce
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: *Add your link*
-* 📧 Email: *Add your email*
+* 📧 Email: *yamkela22y@gmail.com*
 * 🌍 Portfolio: *Coming soon*
 
 ---
