@@ -1,7 +1,7 @@
-<!-- HERO SECTION -->
+<!-- 🔥 HERO SECTION -->
 
-<h1 align="center">Hi, I'm Yamkela Macwili</h1>
-<h3 align="center">Data Engineer in the Making | Building Scalable Data Systems</h3>
+<h1 align="center">Hi 👋, I'm Yamkela Macwili</h1>
+<h3 align="center">🚀 Data Engineer in the Making | Building Scalable Data Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Backend+Developer;ETL+Pipeline+Builder;Turning+Data+Into+Products;Always+Learning&center=true&width=500&height=50">
@@ -9,23 +9,23 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I design and build **scalable data systems** that transform raw data into **reliable, usable products**.
+I build **scalable data systems** that transform raw data into **reliable, production-ready products**.
 
-I focus on:
+🔍 I focus on:
 
-* Building **robust ETL pipelines**
-* Designing **data-intensive backend systems**
-* Creating **real-world applications powered by data**
+* ⚡ Designing **robust ETL pipelines**
+* 🏗️ Building **data-intensive backend systems**
+* 📊 Creating **real-world applications powered by data**
 
-I combine **data engineering + product thinking** to build systems that don’t just work — but **deliver value**.
+💡 I combine **data engineering + product thinking** to build systems that don’t just work — but **deliver real impact**.
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+### 🧑‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
@@ -33,7 +33,7 @@ I combine **data engineering + product thinking** to build systems that don’t 
 
 ---
 
-### Data Engineering
+### 📊 Data Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=pandas" />
@@ -44,7 +44,7 @@ I combine **data engineering + product thinking** to build systems that don’t 
 
 ---
 
-### Frameworks & Tools
+### 🧰 Frameworks & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=flask,supabase,git,github" />
@@ -52,7 +52,7 @@ I combine **data engineering + product thinking** to build systems that don’t 
 
 ---
 
-### Other Skills
+### 🧩 Other Skills
 
 <p>
   <img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
@@ -62,57 +62,56 @@ I combine **data engineering + product thinking** to build systems that don’t 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### Job Listing Aggregator
+### 🔎 Job Listing Aggregator
 
-A **data-driven web app** that collects, processes, and structures job listings from multiple sources.
+A **data-driven platform** that aggregates, processes, and structures job listings from multiple sources.
 
-Features:
+⚡ Highlights:
 
-* Multi-source scraping
-* Data cleaning & structuring
-* Search, filtering & bookmarking
+* Multi-source scraping pipeline
+* Data cleaning & normalization
+* Search, filtering & bookmarking system
 
-Tech: `Python` `Flask` `SQLite` `Web Scraping`
-
----
-
-### Market Data Pipeline *(In Progress)*
-
-A pipeline that fetches and processes financial data, optimized for **speed, caching, and reuse**.
-
-Tech: `Python` `Pandas` `yFinance`
+🛠️ Tech: `Python` `Flask` `SQLite` `Web Scraping`
 
 ---
 
-### RAG System *(In Progress)*
+### 📈 Market Data Pipeline *(In Progress)*
 
-A system for **intelligent document retrieval and querying** using LLM-powered pipelines.
+A pipeline for fetching and processing financial data, optimized for **performance, caching, and reuse**.
 
-Tech: `Python` `Vector DBs` `LLMs`
-
----
-
-## Current Focus
-
-* Building **production-ready data pipelines**
-* Learning **data warehousing & big data tools**
-* Designing **scalable backend architectures**
-* Developing **data-driven products**
+🛠️ Tech: `Python` `Pandas` `yFinance`
 
 ---
 
-## GitHub Analytics
+### 🤖 RAG System *(In Progress)*
 
+An intelligent system for **document retrieval and querying** using LLM-powered pipelines.
+
+🛠️ Tech: `Python` `Vector DBs` `LLMs`
+
+---
+
+## 🎯 Current Focus
+
+* ⚡ Building **production-ready data pipelines**
+* 🏗️ Learning **data warehousing & big data tools**
+* 🔧 Designing **scalable backend architectures**
+* 📊 Developing **data-driven products**
+
+---
+
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamkela-macwili&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamkela-macwili&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yamkela-macwili&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yamkela-macwili&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## Contribution Activity
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamkela-macwili&theme=tokyonight"/>
@@ -120,15 +119,18 @@ Tech: `Python` `Vector DBs` `LLMs`
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/yamkela-macwili/yamkela-macwili/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamkela-macwili/yamkela-macwili/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/yamkela-macwili/yamkela-macwili/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yamkela-macwili-116442253/">
@@ -141,7 +143,7 @@ Tech: `Python` `Vector DBs` `LLMs`
 
 ---
 
-## Vision
+## 🛠️ Vision
 
 I’m on a mission to become a **world-class Data Engineer** building:
 
@@ -151,10 +153,10 @@ I’m on a mission to become a **world-class Data Engineer** building:
 
 ---
 
-## Philosophy
+## 💭 Philosophy
 
 > “Good code processes data. Great systems make data useful.”
 
 ---
 
-**Check out my repositories and follow my journey in building real-world data systems.**
+⭐ **Explore my repositories and follow my journey in building real-world data systems.**
