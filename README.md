@@ -1,7 +1,7 @@
 <!-- 🔥 HERO SECTION -->
 
-<h1 align="center">Hi 👋, I'm Yamkela Macwili</h1>
-<h3 align="center">🚀 Data Engineer in the Making | Building Scalable Data Systems</h3>
+<h1 align="center">Hi, I'm Yamkela Macwili</h1>
+<h3 align="center">Aspiring Data Engineer | Backend Builder | Data Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Backend+Developer;ETL+Pipeline+Builder;Turning+Data+Into+Products;Always+Learning&center=true&width=500&height=50">
@@ -9,23 +9,23 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I build **scalable data systems** that transform raw data into **reliable, production-ready products**.
 
-🔍 I focus on:
+I focus on:
 
-* ⚡ Designing **robust ETL pipelines**
-* 🏗️ Building **data-intensive backend systems**
-* 📊 Creating **real-world applications powered by data**
+* Designing **robust ETL pipelines**
+* Building **data-intensive backend systems**
+* Creating **real-world applications powered by data**
 
-💡 I combine **data engineering + product thinking** to build systems that don’t just work — but **deliver real impact**.
+I work primarily with **Python** & **Java**, and I enjoy bridging the gap between **data engineering and full-stack development**.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
@@ -33,7 +33,7 @@ I build **scalable data systems** that transform raw data into **reliable, produ
 
 ---
 
-### 📊 Data Engineering
+### Data Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=pandas" />
@@ -44,7 +44,7 @@ I build **scalable data systems** that transform raw data into **reliable, produ
 
 ---
 
-### 🧰 Frameworks & Tools
+### Frameworks & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=flask,supabase,git,github" />
@@ -52,7 +52,7 @@ I build **scalable data systems** that transform raw data into **reliable, produ
 
 ---
 
-### 🧩 Other Skills
+### Other Skills
 
 <p>
   <img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
@@ -62,56 +62,48 @@ I build **scalable data systems** that transform raw data into **reliable, produ
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔎 Job Listing Aggregator
+### Job Listing Aggregator
 
 A **data-driven platform** that aggregates, processes, and structures job listings from multiple sources.
 
-⚡ Highlights:
+Highlights:
 
 * Multi-source scraping pipeline
 * Data cleaning & normalization
 * Search, filtering & bookmarking system
 
-🛠️ Tech: `Python` `Flask` `SQLite` `Web Scraping`
+Tech: `Python` `Flask` `SQLite` `Web Scraping`
 
 ---
 
-### 📈 Market Data Pipeline *(In Progress)*
+### Market Data Pipeline *(In Progress)*
 
 A pipeline for fetching and processing financial data, optimized for **performance, caching, and reuse**.
 
-🛠️ Tech: `Python` `Pandas` `yFinance`
+Tech: `Python` `Pandas` `yFinance`
 
 ---
 
-### 🤖 RAG System *(In Progress)*
+### RAG System *(In Progress)*
 
 An intelligent system for **document retrieval and querying** using LLM-powered pipelines.
 
-🛠️ Tech: `Python` `Vector DBs` `LLMs`
+Tech: `Python` `Vector DBs` `LLMs`
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-* ⚡ Building **production-ready data pipelines**
-* 🏗️ Learning **data warehousing & big data tools**
-* 🔧 Designing **scalable backend architectures**
-* 📊 Developing **data-driven products**
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yamkela-macwili&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yamkela-macwili&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+* Building **production-ready data pipelines**
+* Learning **data warehousing & big data tools**
+* Designing **scalable backend architectures**
+* Developing **data-driven products**
 
 ---
 
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamkela-macwili&theme=tokyonight"/>
@@ -119,7 +111,7 @@ An intelligent system for **document retrieval and querying** using LLM-powered 
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -130,7 +122,7 @@ An intelligent system for **document retrieval and querying** using LLM-powered 
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yamkela-macwili-116442253/">
@@ -143,7 +135,7 @@ An intelligent system for **document retrieval and querying** using LLM-powered 
 
 ---
 
-## 🛠️ Vision
+## Vision
 
 I’m on a mission to become a **world-class Data Engineer** building:
 
@@ -153,10 +145,10 @@ I’m on a mission to become a **world-class Data Engineer** building:
 
 ---
 
-## 💭 Philosophy
+## Philosophy
 
 > “Good code processes data. Great systems make data useful.”
 
 ---
 
-⭐ **Explore my repositories and follow my journey in building real-world data systems.**
+**Explore my repositories and follow my journey in building real-world data systems.**
