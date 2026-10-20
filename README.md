@@ -1,123 +1,192 @@
-<!-- 🔥 HERO SECTION -->
+# Hi, I'm Yamkela Macwili
 
-<h1 align="center">Hi, I'm Yamkela Macwili</h1>
-<h3 align="center">Aspiring Data Engineer | Backend Builder | Data Systems Enthusiast</h3>
+### Software Engineer | Backend Systems | Data Engineering | AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Backend+Developer;ETL+Pipeline+Builder;Turning+Data+Into+Products;Always+Learning&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Developer;Data+Engineering+Enthusiast;AI-Powered+Systems;Building+Practical+Software&center=true&width=600&height=50" alt="Software Engineer, Backend Developer, Data Engineering, and AI Systems" />
 </p>
 
----
+I build software systems that solve real-world problems, from backend APIs and data pipelines to intelligent applications powered by AI.
 
-## About Me
+With a background in Applied Statistics and software engineering training at WeThinkCode_, I enjoy turning ideas into functional software through thoughtful architecture, clean code, and practical problem-solving.
 
-I build **scalable data systems** that transform raw data into **reliable, production-ready products**.
+- Building backend services and data-driven applications
+- Designing data pipelines and working with relational databases
+- Integrating AI capabilities into practical software products
+- Learning through hands-on projects and collaborative development
+- Continuously improving my software engineering practices
 
-I focus on:
-
-* Designing **robust ETL pipelines**
-* Building **data-intensive backend systems**
-* Creating **real-world applications powered by data**
-
-I work primarily with **Python** & **Java**, and I enjoy bridging the gap between **data engineering and full-stack development**.
+**Current interests:** Backend Engineering, System Design, Data Engineering, and Applied AI.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" />
 </p>
 
----
-
-### Data Engineering
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Integration-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data-Caching-orange?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=pydantic" title="Pydantic" alt="Pydantic" />
 </p>
 
----
-
-### Frameworks & Tools
+### Databases and Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,supabase,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
 </p>
 
----
-
-### Other Skills
+### Data Engineering and Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/REST-APIs-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web-Scraping-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System-Design-purple?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=airflow" title="Apache Airflow 3" alt="Apache Airflow 3" />
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="SQL" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=metabase" title="Metabase" alt="Metabase" />
+</p>
+
+### AI and Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=ollama" title="Ollama" alt="Ollama" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+</p>
+
+### DevOps, CI/CD, and Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions and CI/CD" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Job Listing Aggregator
+### 1. Olist Customer Behavior Pipeline
 
-A **data-driven platform** that aggregates, processes, and structures job listings from multiple sources.
+**An end-to-end data engineering project using a real-world e-commerce dataset.**
 
-Highlights:
+This project explores how raw transactional data can be transformed into structured datasets for customer behavior analysis and churn-related research.
 
-* Multi-source scraping pipeline
-* Data cleaning & normalization
-* Search, filtering & bookmarking system
+**Engineering focus:**
+- Data ingestion and transformation
+- Workflow orchestration
+- Relational data modeling and SQL transformations
+- Data quality validation
+- Customer feature engineering
+- Preparing analytical datasets for downstream use
 
-Tech: `Python` `Flask` `SQLite` `Web Scraping`
+**Technologies:** Python, PostgreSQL, SQL, Apache Airflow, Docker, Great Expectations, Metabase
+
+[View Repository](https://github.com/yamkela-macwili/olist-customer-behavior-pipeline)
+
+### 2. Job Intelligence Platform
+
+**An AI-powered application for analyzing CVs against job descriptions.**
+
+The platform helps job seekers explore how their experience aligns with job requirements and identify skills they may need to develop.
+
+**Engineering focus:**
+- Backend API development
+- Document parsing and text processing
+- Job matching and skill-gap analysis
+- AI-powered recommendations
+- Database integration
+- Frontend and backend integration
+
+**Technologies:** Python, FastAPI, React, PostgreSQL, Docker, NLP, LLM integration
+
+[View Repository](https://github.com/yamkela-macwili/Job-Intelligence-Platform)
+
+### 3. AI Project Planner Agent
+
+**A collaborative project exploring AI-assisted software project planning.**
+
+I contributed to backend API development and the structuring of AI-generated outputs for application workflows.
+
+**Engineering focus:**
+- REST API development
+- Backend service integration
+- Structured AI responses
+- Application architecture
+- Collaborative software development
+
+**Technologies:** Python, FastAPI, Pydantic, React, Azure OpenAI
+
+[View Project](https://github.com/donkolony/ai_project_planner_agent)
 
 ---
 
-### Market Data Pipeline *(In Progress)*
+## Engineering Interests
 
-A pipeline for fetching and processing financial data, optimized for **performance, caching, and reuse**.
+### Backend Engineering
+Designing maintainable APIs, integrating databases, implementing application logic, and building services that are reliable and easy to extend.
 
-Tech: `Python` `Pandas` `yFinance`
+### Data Engineering
+Building ETL pipelines, transforming raw data, validating datasets, and developing repeatable workflows for analytical and operational systems.
 
----
+### Applied AI
+Integrating machine learning, natural language processing, and language models into applications that provide practical value.
 
-### RAG System *(In Progress)*
-
-An intelligent system for **document retrieval and querying** using LLM-powered pipelines.
-
-Tech: `Python` `Vector DBs` `LLMs`
-
----
-
-## Current Focus
-
-* Building **production-ready data pipelines**
-* Learning **data warehousing & big data tools**
-* Designing **scalable backend architectures**
-* Developing **data-driven products**
+### Software Engineering Practices
+Writing testable code, documenting architectural decisions, using version control effectively, and building reproducible development environments.
 
 ---
 
-## Contribution Activity
+## Education and Certifications
+
+- **Bachelor of Science in Applied Statistics**, Walter Sisulu University
+- **Software Engineering Training**, WeThinkCode_
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Google AI Essentials Specialization**
+- **Generative AI Course for Software Engineers**, WeThinkCode_
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamkela-macwili&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yamkela-macwili&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
----
-
-## Contribution Snake
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamkela-macwili&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamkela-macwili/yamkela-macwili/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/yamkela-macwili/yamkela-macwili/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yamkela-macwili&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
@@ -125,30 +194,23 @@ Tech: `Python` `Vector DBs` `LLMs`
 ## Connect With Me
 
 <p align="center">
+  <a href="https://macwili.co.za">
+    <img src="https://img.shields.io/badge/Portfolio-macwili.co.za-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yamkela-macwili-116442253/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yamkela-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="mailto:yamkela22y@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
 </p>
 
 ---
 
-## Vision
+## My Engineering Philosophy
 
-I’m on a mission to become a **world-class Data Engineer** building:
+> Good software is more than code. It is a thoughtful solution to a real problem, built to be understood, maintained, and improved.
 
-* Scalable data infrastructure
-* Intelligent data systems
-* Products powered by data
+I am committed to becoming a well-rounded software engineer by building practical applications, strengthening my engineering fundamentals, and continuously learning through real-world projects.
 
----
-
-## Philosophy
-
-> “Good code processes data. Great systems make data useful.”
-
----
-
-**Explore my repositories and follow my journey in building real-world data systems.**
+**Explore my repositories to see what I'm building and how I approach software engineering.**
